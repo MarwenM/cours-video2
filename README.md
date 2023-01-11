@@ -1,5 +1,5 @@
-### cours-video2
+# cours-video2
 
-##Projet collaboratif 
+## Projet collaboratif 
 
-# A faire: ajouter un fichier '.gitignore'
+### A faire: ajouter un fichier '.gitignore'
